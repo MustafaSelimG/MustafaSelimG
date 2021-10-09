@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mustafa Selim Gunaydin</h1>
-<h3 align="center">I am enthusiastic developer who learn things every day</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
