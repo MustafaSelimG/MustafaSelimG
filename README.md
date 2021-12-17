@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer In Test</h3>
 <p align="center">
  </br>
-<img align="center" src="https://user-images.githubusercontent.com/88919177/146538950-6a4c2d2a-a081-4610-bbd6-ab976f0a89dd.gif" alt="@mustafaselimg" height="300" width="400" />
+<img align="center" src="https://user-images.githubusercontent.com/88919177/146542235-2a107a3f-78d3-45fd-a806-c3c5fb92dd2e.gif" alt="@mustafaselimg" height="300" width="400" />
 </p>
 </br>
 </br>
