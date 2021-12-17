@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mustafa Selim</h1>
 <h3 align="center">Software Developer In Test</h3>
-
+<p align="center">
+ </br>
+<img align="center" src="https://user-images.githubusercontent.com/88919177/146538950-6a4c2d2a-a081-4610-bbd6-ab976f0a89dd.gif" alt="@mustafaselimg" height="300" width="400" />
+</p>
+</br>
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -33,6 +38,3 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaselimg&show_icons=true&locale=en&layout=compact" alt="mustafaselimg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafaselimg&show_icons=true&locale=en" alt="mustafaselimg" /></p>
