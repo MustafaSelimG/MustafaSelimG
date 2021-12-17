@@ -4,8 +4,7 @@
  </br>
 <img align="center" src="https://user-images.githubusercontent.com/88919177/146542235-2a107a3f-78d3-45fd-a806-c3c5fb92dd2e.gif" alt="@mustafaselimg" height="300" width="400" />
 </p>
-</br>
-</br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
