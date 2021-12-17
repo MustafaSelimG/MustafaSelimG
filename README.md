@@ -17,7 +17,7 @@
 <a href="https://app.patika.dev/MustafaSelimG" target="blank"><img align="center" src="https://user-images.githubusercontent.com/35347777/144942844-9ea9da41-9689-416e-b1a5-5731678a500f.png" alt="@mustafaselimg" height="30" width="60" /></a>
 <a href="https://instagram.com/mustafselim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafselim" height="30" width="40" /></a>
 </p>
-
+</br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
