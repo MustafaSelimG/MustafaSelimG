@@ -4,8 +4,10 @@
  </br>
 <img align="center" src="https://user-images.githubusercontent.com/88919177/146542235-2a107a3f-78d3-45fd-a806-c3c5fb92dd2e.gif" alt="@mustafaselimg" height="300" width="450" />
 </p>
+<h2> My Website &nbsp; ⮞ &nbsp; <a href="https://mustafaselimgunaydin.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88919177/146691986-9f70e444-1f35-4ae0-a034-e791ef55fcc8.png" alt="mustafaselimgunaydin" height="35" width="35"/></a>  </h2>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
+
 <p align="left">
 
 <a href="mailto:mustafaselimgunaydin@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="mustafaselimgunaydin" height="30" width="40" /></a> 
@@ -17,7 +19,7 @@
 <a href="https://instagram.com/mustafselim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafselim" height="30" width="40" /></a>
 </p>
 </br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
