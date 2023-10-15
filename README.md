@@ -2,7 +2,10 @@
 <h3 align="center">Software Developer In Test</h3>
 <p align="center">
  </br>
-<img align="center" src="https://user-images.githubusercontent.com/88919177/146542235-2a107a3f-78d3-45fd-a806-c3c5fb92dd2e.gif" alt="@mustafaselimg" height="300" width="450" />
+
+
+![dev](https://github.com/MustafaSelimG/MustafaSelimG/assets/88919177/60b5b2d6-abc4-454e-a9c4-15fa9ad38918)
+
 </p>
 <h2> My Website &nbsp; ⮞ &nbsp; <a href="https://mustafaselimgunaydin.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88919177/146691986-9f70e444-1f35-4ae0-a034-e791ef55fcc8.png" alt="mustafaselimgunaydin" height="35" width="35"/></a>  </h2>
 
