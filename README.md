@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Gunaydin</h1>
 <h3 align="center">Software Developer In Test</h3>
 <p align="center">
- </br>
-
 
 ![dev](https://github.com/MustafaSelimG/MustafaSelimG/assets/88919177/60b5b2d6-abc4-454e-a9c4-15fa9ad38918)
 
