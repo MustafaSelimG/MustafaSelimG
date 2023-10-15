@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mustafa Gunaydin</h1>
-<h3 align="center">Software Developer In Test</h3>
-<p align="center">
+<h1 align="center">Hi 👋, I'm Mustafa Gunaydin </h1>
+<h3 align="center">Software Developer In Test </h3>
+<div align="center">
 
 ![dev](https://github.com/MustafaSelimG/MustafaSelimG/assets/88919177/60b5b2d6-abc4-454e-a9c4-15fa9ad38918)
 
-</p>
-<h2> My Website &nbsp; ⮞ &nbsp; <a href="https://mustafaselimgunaydin.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88919177/146691986-9f70e444-1f35-4ae0-a034-e791ef55fcc8.png" alt="mustafaselimgunaydin" height="35" width="35"/></a>  </h2>
+</div>
+
+<h2> My Website &nbsp; ⮞ &nbsp; <a href="https://mustafaselimgunaydin.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88919177/146691986-9f70e444-1f35-4ae0-a034-e791ef55fcc8.png" alt="mustafaselimgunaydin" height="35" width="35"/></a></h2>
 
 <h3 align="left">Connect with me</h3>
 
